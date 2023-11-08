@@ -1,3 +1,9 @@
+python3-defaults (3.11-2-6deepin1) unstable; urgency=medium
+
+  * Use 3.11 as default Python3 version
+
+ -- Chang Yang <yangchang@deepin.org>  Wed, 08 Nov 2023 11:02:13 +0800
+
 python3-defaults (3.10.5-1deepin1) unstable; urgency=medium
 
   * Add 3.11 as a supported Python3 version
